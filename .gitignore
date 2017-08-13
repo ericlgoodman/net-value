@@ -1,2 +1,8 @@
 # Photoshop
 *.psd
+
+#Idea
+.idea
+
+#Icon
+Iconr
